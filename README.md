@@ -1,5 +1,5 @@
 <h1 align="center">Heyaa👋, I'm Sanskruti Tripathy</h1>
-<h3 align="center">An aspiring Software Engineer from India</h3>
+<h3 align="center">A Software Engineer from India</h3>
 
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
 
